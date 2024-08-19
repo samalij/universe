@@ -1,0 +1,43 @@
+2024-08-19 11:34:35.257 [warning] /home/gitpod/.ssh/config: ENOENT: no such file or directory, open '/home/gitpod/.ssh/config'
+2024-08-19 11:34:35.257 [info] Activation> Extension version: 0.92.0
+2024-08-19 11:34:40.939 [info] Looking for git repository
+2024-08-19 11:34:40.939 [info] Found 0 repositories during activation
+2024-08-19 11:34:40.939 [info] Git repository found, initializing review manager and pr tree view.
+2024-08-19 11:34:40.943 [info] Registering git provider
+2024-08-19 11:34:40.943 [info] Review+0> Validate state in progress
+2024-08-19 11:34:40.943 [info] Review+0> Validating state...
+2024-08-19 11:34:41.287 [info] Found GitHub remote for folder /workspace/project
+2024-08-19 11:34:41.289 [info] Trying to use globalState for assignableUsers.
+2024-08-19 11:34:41.299 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-08-19 11:34:41.299 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-08-19 11:34:41.674 [info] GlobalState does not exist for assignableUsers.
+2024-08-19 11:34:54.360 [info] Repository file:///workspace has been opened
+2024-08-19 11:34:54.360 [info] Review+1> Validate state in progress
+2024-08-19 11:34:54.360 [info] Review+1> Validating state...
+2024-08-19 11:34:54.360 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-08-19 11:34:54.360 [info] No GitHub remotes found for folder /workspace
+2024-08-19 11:34:54.361 [info] Trying to use globalState for assignableUsers.
+2024-08-19 11:34:54.408 [info] Review+1> Queuing additional validate state
+2024-08-19 11:34:54.408 [info] Repo state for file:///workspace changed.
+2024-08-19 11:34:54.408 [info] Repo file:///workspace has already been setup.
+2024-08-19 11:34:54.681 [info] GlobalState does not exist for assignableUsers.
+2024-08-19 11:34:56.022 [info] Review+1> Validating state...
+2024-08-19 11:34:56.023 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-08-19 11:34:56.023 [info] No GitHub remotes found for folder /workspace
+2024-08-19 11:34:56.023 [info] Using in-memory cached assignable users.
+2024-08-19 11:34:56.034 [info] Review+1> No matching pull request metadata found locally for current branch master
+2024-08-19 11:34:56.042 [info] Review+1> No matching pull request metadata found on GitHub for current branch master
+2024-08-19 11:35:00.912 [info] Review+1> Validate state in progress
+2024-08-19 11:35:00.912 [info] Review+1> Validating state...
+2024-08-19 11:35:00.912 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-08-19 11:35:00.912 [info] No GitHub remotes found for folder /workspace
+2024-08-19 11:35:00.913 [info] Using in-memory cached assignable users.
+2024-08-19 11:35:00.930 [info] Review+1> No matching pull request metadata found locally for current branch master
+2024-08-19 11:35:00.950 [info] Review+1> No matching pull request metadata found on GitHub for current branch master
+2024-08-19 11:35:05.955 [info] Review+1> Validate state in progress
+2024-08-19 11:35:05.955 [info] Review+1> Validating state...
+2024-08-19 11:35:05.955 [warning] No remotes found. The following remotes are missing: origin, upstream
+2024-08-19 11:35:05.955 [info] No GitHub remotes found for folder /workspace
+2024-08-19 11:35:05.955 [info] Using in-memory cached assignable users.
+2024-08-19 11:35:05.973 [info] Review+1> No matching pull request metadata found locally for current branch master
+2024-08-19 11:35:05.992 [info] Review+1> No matching pull request metadata found on GitHub for current branch master
